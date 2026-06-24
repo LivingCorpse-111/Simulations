@@ -89,4 +89,5 @@ anim = @animate for t_current in 0.0:0.1:180.0
     #                                                    .....x......
    
 end
+
 mp4(anim, "pendulum.mp4", fps=60)
