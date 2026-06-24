@@ -6,7 +6,7 @@ Welcome to my physics simulation repository! Below you can find the code and vis
 * **Code:** [`pendulum/pendulum.jl`](./pendulum/pendulum.jl)
 * **Simulation Video:**
 
-<video src="./pendulum.mp4" width="600" controls></video>
+<video src="./pendulum/pendulum.mp4" width="600" controls></video>
 
 ---
 
